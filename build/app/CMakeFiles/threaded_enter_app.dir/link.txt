@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/threaded_enter_app.dir/threaded_enter.cpp.o -o threaded_enter_app  ../liblog_proj.a -lpthread 

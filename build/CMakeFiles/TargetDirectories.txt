@@ -1,0 +1,7 @@
+/home/skraipy/log_proj/build/CMakeFiles/log_proj.dir
+/home/skraipy/log_proj/build/CMakeFiles/edit_cache.dir
+/home/skraipy/log_proj/build/CMakeFiles/rebuild_cache.dir
+/home/skraipy/log_proj/build/app/CMakeFiles/log_app.dir
+/home/skraipy/log_proj/build/app/CMakeFiles/threaded_enter_app.dir
+/home/skraipy/log_proj/build/app/CMakeFiles/edit_cache.dir
+/home/skraipy/log_proj/build/app/CMakeFiles/rebuild_cache.dir
